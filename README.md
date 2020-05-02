@@ -10,6 +10,8 @@ Pytorch Implementation of our paper **DARecNet-BS: Unsupervised Dual Attention  
 - `cd SSRN/`
 - `python indian.py` for Classification on Indian Pines Dataset.
 
+See [SSRN Settings](https://github.com/ucalyptus/DARecNet-BS/blob/master/SSRN/settings.md) for details on SSRN settings.
+
 # Usage - DARecNet-BS
 Run the notebooks in the `DARecNet-BS/` directory using https://colab.research.google.com
 

@@ -6,4 +6,4 @@ DARecNet-BS: Unsupervised Dual Attention  Reconstruction Network for  Hyperspect
 
 
 # Contact
-Contact [Sayantan Das](mailto:sdas.codes@gmail.com) for code issues.
+Contact [Sayantan Das](mailto:sdas.codes@gmail.com) for code issues or file an issue at [this link](https://github.com/ucalyptus/DARecNet-BS/issues/new/choose)

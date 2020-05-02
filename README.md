@@ -11,7 +11,7 @@ Pytorch Implementation of our paper **DARecNet-BS: Unsupervised Dual Attention  
 - `python indian.py` for Classification on Indian Pines Dataset.
 
 # Usage - DARecNet-BS
-Run the notebooks in the `DARecNet-BS/` directory using colab.research.google.com
+Run the notebooks in the `DARecNet-BS/` directory using https://colab.research.google.com
 
 # Architecture : DARecNet-BS
 ![](./readme_files/DABSNet-page-001.jpg)

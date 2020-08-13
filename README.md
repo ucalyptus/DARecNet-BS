@@ -1,5 +1,5 @@
 # DARecNet-BS
-Pytorch Implementation of our paper **DARecNet-BS: Unsupervised Dual Attention  Reconstruction Network for  Hyperspectral Band Selection**
+Pytorch Implementation of our paper [DARecNet-BS: Unsupervised Dual Attention  Reconstruction Network for  Hyperspectral Band Selection](https://ieeexplore.ieee.org/document/9164906/)
 
 # Usage - SSRN Classification
 - `git clone https://github.com/ucalyptus/DARecNet-BS.git`
@@ -17,6 +17,18 @@ Run the notebooks in the `DARecNet-BS/` directory using https://colab.research.g
 
 # Architecture : DARecNet-BS
 ![](./readme_files/DABSNet-page-001.jpg)
+
+## Citation
+
+If you use [DARecNet-BS](https://github.com/ucalyptus/DARecNet-BS) code in your research, we would appreciate a citation to the original paper:
+
+	@article{roy2020bs,
+    title={DARecNet-BS: Unsupervised Dual-Attention Reconstruction Network for Hyperspectral Band Selection},
+		author={Roy, Swalpa Kumar and Das, Sayantan and Song, Tiecheng and Chanda, Bhabatosh},
+		journal={IEEE Geoscience and Remote Sensing Letters},
+		year={2020}
+		}
+
 
 # Contact
 Contact [Sayantan Das](mailto:sdas.codes@gmail.com) for code issues or file an issue at [this link](https://github.com/ucalyptus/DARecNet-BS/issues/new/choose)

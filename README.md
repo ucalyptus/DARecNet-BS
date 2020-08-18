@@ -20,7 +20,7 @@ Run the notebooks in the `DARecNet-BS/` directory using https://colab.research.g
 
 ## Citation
 
-If you use [DARecNet-BS](https://github.com/ucalyptus/DARecNet-BS) code in your research, we would appreciate a citation to the original paper:
+If you find useful [DARecNet-BS](https://github.com/ucalyptus/DARecNet-BS) code in your research, we would appreciate a citation to the original paper:
 
 	@article{roy2020bs,
 		title={DARecNet-BS: Unsupervised Dual-Attention Reconstruction Network for Hyperspectral Band Selection},

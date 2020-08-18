@@ -16,7 +16,7 @@ See [SSRN Settings](https://github.com/ucalyptus/DARecNet-BS/blob/master/SSRN/se
 Run the notebooks in the `DARecNet-BS/` directory using https://colab.research.google.com
 
 # Architecture : DARecNet-BS
-![](./readme_files/DABSNet-page-001.jpg)
+![](./readme_files/DARecNet-BS.jpg)
 
 ## Citation
 

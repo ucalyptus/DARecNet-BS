@@ -1,5 +1,5 @@
 # DARecNet-BS
-Pytorch Implementation of our paper [DARecNet-BS: Unsupervised Dual Attention  Reconstruction Network for  Hyperspectral Band Selection](https://ieeexplore.ieee.org/document/9164906/)
+Pytorch implementation of our paper [DARecNet-BS: Unsupervised Dual Attention  Reconstruction Network for  Hyperspectral Band Selection](https://ieeexplore.ieee.org/document/9164906/)
 
 Additional results are available in [Supplementary](https://github.com/ucalyptus/DARecNet-BS/blob/master/Supplementary.pdf)
 
